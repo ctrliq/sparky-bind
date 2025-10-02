@@ -1,0 +1,12 @@
+begin:
+enabled
+active
+ok
+zone ourdomain.lan/IN: loaded serial 2019061800
+OK
+zone 192.168.1.136/IN: loaded serial 2019061800
+OK
+192.168.1.13
+192.168.1.14
+192.168.1.15
+end:
